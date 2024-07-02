@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "estadistica"
+  site-url: "https://Itzelep.github.io/estadistica"
+  description: "Estadisticas"
+  repo-branch: main
+  repo-url: "https://github.com/Itzelep/estadistica"
